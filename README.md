@@ -20,7 +20,8 @@ This project implements a Bloom Filter, a probabilistic data structure, and comp
 
 ### Clone the Repository
 ```
-git clone https://github.com/YOUR-USERNAME/bloom-filter-benchmark.git cd bloom-filter-benchmark
+git clone https://github.com/YOUR-USERNAME/bloom-filter-benchmark.git
+cd bloom-filter-benchmark
 ```
 
 ### Install Dependencies
